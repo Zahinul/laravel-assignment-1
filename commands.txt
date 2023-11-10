@@ -1,0 +1,5 @@
+composer create-project laravel/laravel laravel-assignment-1
+cd laravel-assignment-1
+php artisan
+php artisan make:controller UserController 
+php artisan make:view greeting
